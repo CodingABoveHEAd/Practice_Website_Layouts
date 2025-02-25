@@ -1,2 +1,2 @@
-# Practice_Website_Layout-s
+# Practice_Website_Layouts
 I practiced these basic responsive website layout designing....
